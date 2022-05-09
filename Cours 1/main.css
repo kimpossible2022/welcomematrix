@@ -10,18 +10,19 @@ body{
   color: pink;
   font-weight: lighter;
   font-size: 25px;
+  border: 2px solid green;
 }
 
 .p2{
-  font-family: Courier;
+  font-family: Arial;
   color: red;
   font-weight: lighter;
   font-size: 25px;
 }
 h1{
-  font-family: Courier;
+  font-family: Raleway;
   color: red;
-  font-weight: lighter;
+  font-weight: bolder;
   font-size: 50px;
 }
 h2 {
